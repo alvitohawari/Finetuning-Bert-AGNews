@@ -1,2 +1,2 @@
-# Finetuning-Bert-Text-Classification-AG-News
+# Finetuning-Bert-AGNews
 Task Number 1 for Finalterm Deep Learning - Finetuning Bert AGNews 
